@@ -2,7 +2,7 @@
 //Arduino IDE 1.6.4
 
 #include <SPI.h>  
-#include <Pixy.h>
+
 
 Pixy pixy;
 
